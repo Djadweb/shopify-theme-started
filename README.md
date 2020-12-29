@@ -1,8 +1,10 @@
 [![Build Status](https://travis-ci.org/Shopify/starter-theme.svg?branch=master)](https://travis-ci.org/Shopify/starter-theme)
 
 # Shopify starter theme -Slate Based-
-1- Install npm or yarn package manager
+1- Install npm or yarn package manager 
+
 2- Change the ".env" file with your store's informations
+
 3- Launch "yarn start" 
 
 > **Starter Theme and [Slate v1](https://github.com/Shopify/slate) are currently in beta!** You should expect potentially breaking changes between updates and more bugs than a finalized release. Slate v1.0 has not yet been tested on Windows.
